@@ -1,0 +1,50 @@
+.estilo-tech{
+    padding: 10px;
+    gap: 1em;
+    font-size: 2em;
+    font-weight: 700;
+    background-color: #1b1e25;
+    border: 1px solid white;
+    border-radius: 10px;
+    justify-content: center;
+    transition: background-position .6s cubic-bezier(.22,1,.36,1);
+   
+}
+
+
+.estilo-tech {
+    transition: background-color 1s ease;
+    color: white;
+    font-size: 18px;
+}
+
+.estilo-tech:hover {
+    background-color: #00bfff;
+}
+
+
+.margin-interno-tech{
+    margin-top: 3%;
+    margin-bottom: 3%;
+   
+}
+/* .margin-responsive{
+    min-width: 10%;
+    height: auto;
+} */
+
+.estilo-tech svg {
+    width: 30%;
+    height: 100px;
+}
+
+
+.estilo-text-tech{
+    font-size: calc(0.5vw + 1vh);
+}
+
+@media (max-width: 768px) {
+    .estilo-text-tech {
+      display: none;
+    }
+  }

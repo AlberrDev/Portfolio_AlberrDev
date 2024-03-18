@@ -1,0 +1,44 @@
+.diseño-footer {
+    background-color: #00070D;
+    background-image:
+        radial-gradient(circle at top left, rgba(255, 255, 255, 0.1) 10%, rgba(255, 255, 255, 0) 30%),
+        radial-gradient(circle at 70% 30%, rgba(255, 255, 255, 0.1) 10%, rgba(255, 255, 255, 0) 30%),
+        radial-gradient(circle at bottom right, rgba(255, 255, 255, 0.1) 10%, rgba(255, 255, 255, 0) 30%);
+    min-height: 265px;
+    margin-top: 8%;
+    
+    
+}
+
+.footer_title {
+    font-weight: 500;
+    line-height: 1.2;
+    margin-bottom: 0.5rem;
+    margin-top: 0;
+    /* color: hsla(47, 49%, 61%, 1); */
+    color: #004fc2;
+    
+}
+
+.footer_list {
+    list-style: none;
+}
+
+.footer_copy {
+    color: #004fc2;
+    
+}
+.footer_link{
+    font-size: calc(0.5vw + 1vh);
+}
+.social-icon .fa-brands {
+    align-items: center;
+    background: hsla(0,0%,85%,.1);
+    border: 1px solid hsla(0,0%,100%,.5);
+    border-radius: 50%;
+    display: inline-flex;
+    height: 42px;
+    justify-content: center;
+    margin-right: 6px;
+    width: 200%;
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 2048 1536" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;" fill="none">
+    <g transform="matrix(1,0,0,1,34.3754,-127.52)">
+        <g id="Capa1">
+            <g transform="matrix(1.0018,-0.00105254,-0.00105254,1.00061,-0.61696,0.359793)">
+                <path d="M1038.67,400.501L693.065,600.023L693.125,699.972L1038.79,500.448L1125.27,550.512L693.213,799.905L693.264,899.882L1211.8,600.58L1298.35,650.62L1125.54,750.452L1125.58,850.377L1384.86,700.692L1384.74,600.791L1038.67,400.501Z" style="fill:white;"/>
+            </g>
+            <path d="M1039.5,800.036L693.005,1000.05L693.004,1100.06L1039.49,1300.06L1385.89,1100.06L1385.99,800.029L952.851,1050.07L1039.49,1100.05L1299.37,950.034L1299.37,1050.04L1039.5,1200.06L779.555,1050.1L1039.47,900.097L1039.5,800.036Z" style="fill:white;"/>
+        </g>
+    </g>
+</svg>

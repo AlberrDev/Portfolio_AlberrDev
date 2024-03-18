@@ -1,0 +1,119 @@
+.h2-sobre-mi {
+    color: white;
+    /* font-size: 2.7vw; */
+    margin-top: 20%;
+    letter-spacing: 1px;
+    font-weight: 700;
+    font-size: calc(1.5vw + 2vh);
+}
+
+.margin-sobremi {
+    margin-top: 5%;
+    min-height: 850px;
+
+}
+
+.sobremi-info {
+    background-color: #00070D;
+    background-image:
+        radial-gradient(circle at top left, rgba(255, 255, 255, 0.1) 10%, rgba(255, 255, 255, 0) 30%),
+        radial-gradient(circle at 70% 30%, rgba(255, 255, 255, 0.1) 10%, rgba(255, 255, 255, 0) 30%),
+        radial-gradient(circle at bottom right, rgba(255, 255, 255, 0.1) 10%, rgba(255, 255, 255, 0) 30%);
+    width: 100%;
+    min-height: 450px;
+    border: 2px solid #262b2f;
+
+}
+
+.sobremi-p {
+    color: white;
+}
+
+.imagen-personal {
+    margin-left: 20%;
+    margin-top: 10%;
+}
+
+.contenido-overlay {
+    z-index: 1;
+
+}
+
+.boton-sobremi {
+    border: 3px solid white;
+    color: white;
+    width: 120px;
+    height: 50px;
+    border-radius: 10px;
+    background-color: transparent;
+    font-size: 16px;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.boton-sobremi:hover {
+    background-color: white;
+    color: #00070D;
+}
+
+.div-botones {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+
+}
+
+
+
+.wrap {
+    display: inline-block;
+    overflow: hidden;
+    color: #00bfff;
+
+
+}
+
+
+.btn-contact,
+.btn-download {
+    background-color: #00070D;
+    border: 2px solid white;
+    color: white;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    outline: none;
+}
+
+.btn-contact:hover,
+.btn-download:hover {
+    background-color: rgba(255, 255, 255, 0.1);
+    color: #508be2;
+}
+
+.btn-contact a,
+.btn-download a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.btn-contact svg,
+.btn-download svg {
+    vertical-align: middle;
+    margin-left: 5px;
+}
+
+.btn-download {
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+.btn-download:hover {
+    background-color: rgba(255, 255, 255, 0.2);
+}
+
+

@@ -1,0 +1,159 @@
+.circulo-proyec-1 {
+    position: absolute;
+    left: 101%; 
+    top: 52%; 
+    width: 15px;
+    height: 15px;
+    border-radius: 100%;
+    border: 4px solid white;
+    z-index: 2;
+    background-color: #1180cf;
+    transform: translate(-50%, -50%);
+}
+
+
+.circulo-proyec-2 {
+    position: absolute;
+    left: 101%; 
+    top: 5%;
+    width: 15px;
+    height: 15px;
+    border-radius: 100%;
+    border: 4px solid white;
+    z-index: 2;;
+    background-color: #c4057c;
+    transform: translate(-50%, -50%);
+}
+
+.circulo-proyec-3 {
+    position: absolute;
+    left: 101%; 
+    top: 5%; 
+    width: 15px;
+    height: 15px;
+    border-radius: 100%;
+    border: 4px solid white;
+    z-index: 2;
+    background-color: #004fc2;
+    transform: translate(-50%, -50%);
+}
+
+
+.circulo-proyec-4 {
+    position: absolute;
+    left: 101%; 
+    top: 52%; 
+    width: 15px;
+    height: 15px;
+    border-radius: 100%;
+    border: 4px solid white;
+    z-index: 2;
+    background-color: yellowgreen;
+    transform: translate(-50%, -50%);
+}
+
+/* Fin de diseño de circulos */
+
+
+
+
+.h2-proyectos {
+    color: white;
+    font-size: calc(3vw + 2.5vh);
+
+}
+
+.h3-proyectos {
+    font-size: calc(2vw + 2vh);
+    letter-spacing: 2px;
+    font-weight: 700;
+}
+
+
+
+.h3-proyectos-1 {
+    color: #c4057c;
+
+
+}
+
+.h3-proyectos-2 {
+    color: #1180cf;
+
+}
+
+.h3-proyectos-3 {
+    color: #004fc2;
+
+
+}
+
+.h3-proyectos-4 {
+    color: yellowgreen;
+
+}
+
+.margin-div-proyectos {
+    margin-top: 8%;
+}
+
+.margin-proyectos {
+    margin-left: 3%;
+}
+
+
+
+.linea-separadora {
+    border-right: 3px solid white;
+    margin-left: 3%;
+    position: relative;
+}
+
+.margin-interno-proyectos {
+    margin-left: 5%;
+}
+
+.estilo-proyectos {
+    /* border-left: solid 3px white; */
+    height: 400px;
+}
+
+.p-proyectos {
+    color: white;
+}
+
+.span-proyectos {
+    color: red;
+}
+
+.socials-proyectos {
+    border: 3px solid white;
+    width: 120px;
+    height: 50px;
+    margin-top: 4%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    background-color: transparent;
+}
+
+.socials-icon {
+    width: 10%;
+    height: 30px;
+    
+
+
+}
+
+
+
+
+.container2 {
+
+    background-color: #00070D;
+    background-image:
+        radial-gradient(circle at top left, rgba(255, 255, 255, 0.1) 10%, rgba(255, 255, 255, 0) 30%),
+        radial-gradient(circle at 70% 30%, rgba(255, 255, 255, 0.1) 10%, rgba(255, 255, 255, 0) 30%),
+        radial-gradient(circle at bottom right, rgba(255, 255, 255, 0.1) 10%, rgba(255, 255, 255, 0) 30%);
+}
